@@ -1,6 +1,6 @@
-# :wave: Hey, I'm Jesper!
+# :wave: Hey, I'm Joshua!
 
-I'm a software engineer focusing on the modern web & full-stack JavaScript. I love open source - follow or :heart: [sponsor me or donate](https://github.com/jesper29)!\
+I'm a software engineer focusing on the modern web & full-stack JavaScript || RoR. I love open source - follow or :heart: [sponsor me or donate](https://github.com/jesper29)!\
 Lead Engineer on Upwork.com. Computer Science degree from DTU.
 
 Have a project? I'd love to work with you! Freelance or contract, remote & off-hours, < 30-40 hours/week.
